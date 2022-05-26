@@ -1,0 +1,26 @@
+[
+  {
+    "alias": "<if>",
+    "native": "if ("
+  },
+  {
+    "alias": "<do>",
+    "native": ") {"
+  },
+  {
+    "alias": "<elif>",
+    "native": "} else if ("
+  },
+  {
+    "alias": "<else>",
+    "native": "} else {"
+  },
+  {
+    "alias": "<end>",
+    "native": "}"
+  },
+  {
+    "alias": "<method>",
+    "native": "() => {"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "kaliscripter": "^1.1.7",
+    "prettier": "^2.2.1",
+    "readline": "^1.3.0"
+  },
+  "name": "glitch-compiler",
+  "version": "1.0.0",
+  "description": "Glitch Compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0ct3ri4/glitch-compiler.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "nodejs",
+    "glitch",
+    "compiler",
+    "build",
+    "buildable"
+  ],
+  "author": "n0ct3ri4",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/n0ct3ri4/glitch-compiler/issues"
+  },
+  "homepage": "https://github.com/n0ct3ri4/glitch-compiler#readme"
+}
